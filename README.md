@@ -3,7 +3,9 @@
 The Django poll website is a platform where you can make and vote on polls. You have to sign up first and can only vote once per poll. The poll maker can control the poll and its options. They can also stop the poll and reveal the final outcome. You can find and sort polls by different factors. The website also has pagination for showing polls.
 
 <h2>Project snapshot</h2>
-![bg](https://github.com/Nandareddy7/Todo-List/assets/110484284/2822f170-0d2d-4df7-8d85-3f43b0536eb4)
+<div align="center">
+    <img src="[https://user-images.githubusercontent.com/19981097/51409509-36c8a000-1b8c-11e9-845a-65b49262aa53.png](https://github-production-user-asset-6210df.s3.amazonaws.com/110484284/265247975-a0c61b14-1ae5-4daa-a459-29b9e1a6d16f.png)" width="100%"</img> 
+</div>
 <h3>Login Page</h3>
 <div align="center">
     <img src="https://user-images.githubusercontent.com/19981097/51409509-36c8a000-1b8c-11e9-845a-65b49262aa53.png" width="100%"</img> 
