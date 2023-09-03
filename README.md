@@ -5,7 +5,7 @@ The Django poll website is a platform where you can make and vote on polls. You 
 <h2>Project snapshot</h2>
 <h3>Home page</h3>
 <div align="center">
-    ![screencapture-127-0-0-1-8000-2023-09-03-12_35_43](https://github.com/Nandareddy7/Poll_Website-Django/assets/110484284/a0c61b14-1ae5-4daa-a459-29b9e1a6d16f) 
+    <img src="![screencapture-127-0-0-1-8000-2023-09-03-12_35_43](https://github.com/Nandareddy7/Poll_Website-Django/assets/110484284/a0c61b14-1ae5-4daa-a459-29b9e1a6d16f)"</img>
 </div>
 
 <h3>Login Page</h3>
